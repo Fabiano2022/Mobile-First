@@ -1,7 +1,7 @@
 <h1 align="center"> MOBILE FIRST </h1>
 
 <p align="center">
-Projeto realizado no STAGE 3 no curso Rocketseat/Ensino de tecnologias WEB/ Turma 6 / Aula Avançando com CSS.
+Projeto realizado no STAGE 3 no curso Rocketseat/Ensino de tecnologias WEB/ Curso Explorer / Turma 6 / Aula Avançando com CSS.
 </p>
 
 <p align="center">
