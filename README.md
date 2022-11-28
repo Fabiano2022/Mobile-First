@@ -33,10 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Esse foi um desfio feito pelo curso onde tivemos que colocar em prática tudo que foi visto no Stage 3 / Aula Avançando com CSS. A ideia foi criar o Space Cream levando em consideração o Mobile First. No desafio utilizamos:
-mobile first;
-unidade de medidas flexível;
-variáveis;
-animação simples.
+
+- mobile first;
+- unidade de medidas flexível;
+- variáveis;
+- animação simples.
 
 ## 🔖 Layout
 
